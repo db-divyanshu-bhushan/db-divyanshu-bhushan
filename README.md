@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @db-divyanshu-bhushan
-- 👀 I’m interested in Data Science and Business
-- 🌱 I’m currently learning Data Analytics
+- 👀 I’m interested in exploring tech along with business and finance
+- 🌱 I’m currently learning Data Analytics,Finance,Economics
 - 💞️ I’m looking to collaborate on real world problem
 - 📫 How to reach me divyanshubhushan1403@gmail.com
 - 😄 Pronouns: Divyanshu Bhushan
